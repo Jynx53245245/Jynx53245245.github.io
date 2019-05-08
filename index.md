@@ -1,5 +1,8 @@
 ## Welcome to GitHub Pages
 
+title: Welcome to Jynx’s homepage!
+description: v0.01
+
 You can use the [editor on GitHub](https://github.com/Jynx53245245/Jynx53245245.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
